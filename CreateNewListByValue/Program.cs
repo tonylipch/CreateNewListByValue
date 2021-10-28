@@ -8,26 +8,45 @@ using System.Linq;
 
 namespace CreateNewListByValue {
 
-    
 
+    public class List 
+    {
+  
+        public int value{ get; set; }
 
-   class FindKey {
-
-        public void newList(List<T> originList , List<int> afterKey ,List<int> beforeKey, int key) 
+        public override string ToString()
         {
+            return "value: "+value ;
+        }
+     
+    }
+
+
+
+
+    class Findvalue {
+
+        public void newList(List<int> originList , List<int> aftervalue ,List<int> beforevalue, int value) 
+        {
+            List list = new List();
+
 
  
             int i = 0;
 
-            originList.Add(2,4,5) ;
-   
+
+            originList.Add(list.value);
+            originList.Add(list.value);
+            originList.Add(list.value);
+            originList.Add(list.value);
+            originList.Add(list.value);
             for (; i <originList.Count; )
             {
 
-              
 
+                originList.AddRange(aftervalue);
 
-                if (key.Equals(newNote.key))
+                if (value == list.value)
                 {
                     break;
 
@@ -38,10 +57,10 @@ namespace CreateNewListByValue {
 
             for (; i<originList.Count;)
             {
-                afterKey.AddRange(originList);
+                aftervalue.AddRange(originList);
 
 
-                if (key.Equals(newNote.key))
+                if (value.Equals(newNote.value))
                 {
                     break;
 
@@ -50,9 +69,9 @@ namespace CreateNewListByValue {
 
             }
 
-            for (; i < afterKey.Count;)
+            for (; i < aftervalue.Count;)
             {
-                beforeKey.AddRange(afterKey);
+                beforevalue.AddRange(aftervalue);
 
 
                
@@ -88,11 +107,11 @@ namespace CreateNewListByValue {
 
             // Add parts to the list.
 
-            list.Add(new CreateList {key= 1,value="Baba" });
-            list.Add(new CreateList { key = 2, value = "Mama" });
-            list.Add(new CreateList { key = 3, value = "Papa" });
-            list.Add(new CreateList { key = 4, value = "Kaka" });
-            list.Add(new CreateList { key = 5, value = "Taka" });
+            list.Add(new CreateList {value= 1,value="Baba" });
+            list.Add(new CreateList { value = 2, value = "Mama" });
+            list.Add(new CreateList { value = 3, value = "Papa" });
+            list.Add(new CreateList { value = 4, value = "Kaka" });
+            list.Add(new CreateList { value = 5, value = "Taka" });
 
           
 
