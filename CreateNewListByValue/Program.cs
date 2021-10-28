@@ -26,27 +26,26 @@ namespace CreateNewListByValue {
 
     class Findvalue {
 
-        public void newList(List<int> originList , List<int> aftervalue ,List<int> beforevalue, int value) 
+        public void newList(List<List> originList , List<List> aftervalue ,List<List> beforevalue, int value) 
         {
             List list = new List();
+
+            list.value = value;
 
 
  
             int i = 0;
 
 
-            originList.Add(list.value);
-            originList.Add(list.value);
-            originList.Add(list.value);
-            originList.Add(list.value);
-            originList.Add(list.value);
+            originList.Add(list);
+         
             for (; i <originList.Count; )
             {
 
 
                 originList.AddRange(aftervalue);
 
-                if (value == list.value)
+                if (list.value==value)
                 {
                     break;
 
@@ -60,7 +59,7 @@ namespace CreateNewListByValue {
                 aftervalue.AddRange(originList);
 
 
-                if (value.Equals(newNote.value))
+                if (value == list.value)
                 {
                     break;
 
