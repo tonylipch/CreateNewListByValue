@@ -1,0 +1,16 @@
+F:\projects\CreateNewListByValue\CreateNewListByValue\bin\Debug\net6.0\CreateNewListByValue.exe
+F:\projects\CreateNewListByValue\CreateNewListByValue\bin\Debug\net6.0\CreateNewListByValue.deps.json
+F:\projects\CreateNewListByValue\CreateNewListByValue\bin\Debug\net6.0\CreateNewListByValue.runtimeconfig.json
+F:\projects\CreateNewListByValue\CreateNewListByValue\bin\Debug\net6.0\CreateNewListByValue.dll
+F:\projects\CreateNewListByValue\CreateNewListByValue\bin\Debug\net6.0\ref\CreateNewListByValue.dll
+F:\projects\CreateNewListByValue\CreateNewListByValue\bin\Debug\net6.0\CreateNewListByValue.pdb
+F:\projects\CreateNewListByValue\CreateNewListByValue\obj\Debug\net6.0\CreateNewListByValue.GlobalUsings.g.cs
+F:\projects\CreateNewListByValue\CreateNewListByValue\obj\Debug\net6.0\CreateNewListByValue.csproj.AssemblyReference.cache
+F:\projects\CreateNewListByValue\CreateNewListByValue\obj\Debug\net6.0\CreateNewListByValue.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\CreateNewListByValue\CreateNewListByValue\obj\Debug\net6.0\CreateNewListByValue.AssemblyInfoInputs.cache
+F:\projects\CreateNewListByValue\CreateNewListByValue\obj\Debug\net6.0\CreateNewListByValue.AssemblyInfo.cs
+F:\projects\CreateNewListByValue\CreateNewListByValue\obj\Debug\net6.0\CreateNewListByValue.csproj.CoreCompileInputs.cache
+F:\projects\CreateNewListByValue\CreateNewListByValue\obj\Debug\net6.0\CreateNewListByValue.dll
+F:\projects\CreateNewListByValue\CreateNewListByValue\obj\Debug\net6.0\ref\CreateNewListByValue.dll
+F:\projects\CreateNewListByValue\CreateNewListByValue\obj\Debug\net6.0\CreateNewListByValue.pdb
+F:\projects\CreateNewListByValue\CreateNewListByValue\obj\Debug\net6.0\CreateNewListByValue.genruntimeconfig.cache
